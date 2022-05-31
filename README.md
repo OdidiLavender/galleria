@@ -12,13 +12,18 @@ django
 virtual environment
 
 ## Cloning the repository
-Fork the repository
+Open your terminal
 
+ git clone the bellow link
 https://github.com/OdidiLavender/galleria.git
 
+Give the execution permission to python manage.py runserver
+It will automatically run 
+
+
 ## Running the application
-$ python3 pipenv shell
-$ pip freeze > requirements.txt
+ python3 pipenv shell
+ pip freeze > requirements.txt
 ## Techologies used
 python3
 python-shell
@@ -28,7 +33,7 @@ VSCode
 ## Running the application
 $ make server
 $ make migrations (to create database migration)
-$ make migrate
+ make migrate
 
 ## Support and contact details
 odidilavender@gmail.com
