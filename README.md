@@ -25,6 +25,9 @@ $ make server
 $ make migrations (to create database migration)
 $ make migrate
 
+## Support and contact details
+odidilavender@gmail.com
+
 ## License
 Copyright 2022 OdidiLavender
 
