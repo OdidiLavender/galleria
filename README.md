@@ -19,6 +19,11 @@ https://github.com/OdidiLavender/galleria.git
 ## Running the application
 $ python3 pipenv shell
 $ pip freeze > requirements.txt
+## Techologies used
+python3
+python-shell
+Django
+VSCode
 
 ## Running the application
 $ make server
