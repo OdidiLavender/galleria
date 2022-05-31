@@ -10,7 +10,7 @@ class Image(models.Model):
     description = models.TextField()
     img=models.FileField(upload_to="pic/%y/")
     pub_date = models.DateTimeField(auto_now_add=True)
-    location = models.CharField(max_length=150)
+    location = models.CharField(max_length=100)
 
     def __str__(self):
         return self.title
