@@ -2,6 +2,7 @@ from django.db import models
 from django.urls import reverse
 
 
+
 # Create your models here.
 class Image(models.Model):
     title=models.CharField(max_length=150)
@@ -9,7 +10,6 @@ class Image(models.Model):
     tags=models.TextField()
     description = models.TextField()
     img=models.FileField(upload_to="pic/%y/")
-    pub_date = models.DateTimeField(auto_now_add=True)
     location = models.CharField(max_length=100)
 
     def __str__(self):
