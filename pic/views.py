@@ -1,3 +1,4 @@
+from email.mime import image
 from django.shortcuts import get_object_or_404, render,HttpResponse
 from .models import Image
 from django.db.models import Q
@@ -5,8 +6,9 @@ from django.db.models import Q
 
 # Create your views here.
 def index(request):
-    obj=Image.objects.all()
-    return render(request,'index.html',{'image':obj})
+    image=Image.objects.all()
+    ctx = {'image': image}
+    return render(request,'index.html',ctx)
 
 def detail_view(request,id):
     obj=get_object_or_404(Image,id=id)
