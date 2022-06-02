@@ -1,5 +1,6 @@
 ### by OdidiLavender
 ### Project Name
+
 Galleria
 ### Description
 This is an application that displays variuous categories of pictures and location they were taken from.
