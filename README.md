@@ -3,12 +3,12 @@
 Galleria
 
 # Screenshots
-<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-42-10.png" width="600" height="300" />|
-<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-56-55.png" width="600" height="300" />|
-<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-57-16.png" width="600" height="300" />|
-|<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-41-56.png" width="600" height="300" />|
-<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-57-28.png" width="600" height="300" />|
-<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-57-16.png" width="600" height="300" />|
+<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-42-10.png" width="800" height="400" />|
+<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-42-02.png" width="800" height="400" />|
+<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-56-55.png" width="800" height="400" />|
+|<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-41-56.png" width="800" height="400" />|
+<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-57-28.png" width="800" height="400" />|
+<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-57-16.png" width="800" height="400" />|
 
 
 
