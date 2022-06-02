@@ -1,6 +1,13 @@
 ### by OdidiLavender
 ### Project Name
 
+# Screenshots
+|<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-41-56.png" width="200" height="400" />|
+<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-41-56.png" width="200" height="400" />|
+<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-42-02.png" width="200" height="400" />|
+<img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-42-10.png" width="200" height="400" />|
+
+
 Galleria
 ### Description
 This is an application that displays variuous categories of pictures and location they were taken from.
