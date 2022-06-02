@@ -1,5 +1,6 @@
 ### by OdidiLavender
 ### Project Name
+Galleria
 
 # Screenshots
 <img src="https://github.com/OdidiLavender/galleria/blob/main/media/pic/22/Screenshot%20from%202022-06-02%2017-42-10.png" width="600" height="300" />|
@@ -10,7 +11,7 @@
 
 
 
-Galleria
+
 ### Description
 This is an application that displays variuous categories of pictures and location they were taken from.
 
